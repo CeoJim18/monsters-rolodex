@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/://CeoJim18.github.io/monsters-rolodex/static/css/main.d7e22acf.css",
+    "main.js": "/://CeoJim18.github.io/monsters-rolodex/static/js/main.e46da92a.js",
+    "static/js/787.b2ac3b88.chunk.js": "/://CeoJim18.github.io/monsters-rolodex/static/js/787.b2ac3b88.chunk.js",
+    "index.html": "/://CeoJim18.github.io/monsters-rolodex/index.html",
+    "main.d7e22acf.css.map": "/://CeoJim18.github.io/monsters-rolodex/static/css/main.d7e22acf.css.map",
+    "main.e46da92a.js.map": "/://CeoJim18.github.io/monsters-rolodex/static/js/main.e46da92a.js.map",
+    "787.b2ac3b88.chunk.js.map": "/://CeoJim18.github.io/monsters-rolodex/static/js/787.b2ac3b88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e22acf.css",
+    "static/js/main.e46da92a.js"
+  ]
+}
